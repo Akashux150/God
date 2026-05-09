@@ -309,6 +309,8 @@
                 <br /><br />
                 Devotees can adopt villages for cultivating farming and supplying groceries for Naivedyam.
             </div>
+          <p>loremipsum
+          </p>
 
        <div class="highlight">
     &#128591; Membership: Daily &#8377;5/- | Yearly &#8377;1500/-
